@@ -1,0 +1,7 @@
+groq
+qdrant-client
+sentence-transformers
+langchain
+fastapi
+uvicorn
+python-dotenv
