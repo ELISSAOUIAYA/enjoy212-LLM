@@ -13,7 +13,7 @@ Composante IA du projet Enjoy212 (PFE). Architecture multi-agents comprenant un 
 
 1. **Cloner le repo**
 ```bash
-git clone 
+git clone [https://github.com/ELISSAOUIAYA/enjoy212-LLM.git](https://github.com/ELISSAOUIAYA/enjoy212-LLM.git)
 
 ```
 
